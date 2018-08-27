@@ -1,6 +1,6 @@
 # Xamarin Bindings
 
-An example Visual Studio Solution which shows how to bind [Flomio's iOS SDK](https://github.com/flomio/flomio-sdk-ios) to Xamarin and use in iOS app. 
+An example Visual Studio Solution which shows how to bind [Flomio's iOS SDK](https://github.com/flomio/flomio-sdk-ios) to Xamarin and use in an iOS app. 
 
 ## Adding to new project
 
