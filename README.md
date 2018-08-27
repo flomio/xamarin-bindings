@@ -1,8 +1,8 @@
 # Xamarin Bindings
 
-Xamarin Bindings for the [Flomio iOS SDK](https://github.com/flomio/flomio-sdk-ios).
+An example Visual Studio Solution which shows how to bind [Flomio's iOS SDK](https://github.com/flomio/flomio-sdk-ios) to Xamarin and use in iOS app. 
 
-## Add to a new project
+## Adding to new project
 
 ### Add FlomioSDKBindings project to your Solution
 
@@ -10,9 +10,11 @@ Xamarin Bindings for the [Flomio iOS SDK](https://github.com/flomio/flomio-sdk-i
 
 ### Add reference to bindings project.
 
+Drag the bindings project to the References folder in your project to create a reference.
+
 ![Add reference to bindings project.](https://user-images.githubusercontent.com/8557070/44673595-e9ecfd00-aa23-11e8-8e63-0f178323984d.png)
 
-### Disable Bitcode
+### Disable Bitcode
 
 ![Open With](https://user-images.githubusercontent.com/8557070/44673596-e9ecfd00-aa23-11e8-95ed-7780cdb59fa5.png)
 
@@ -27,3 +29,7 @@ Within that group, see if a MtouchEnableBitcode already exists and edit it, othe
 ## Use in new project
 
 See ViewController.cs as a reference on how to configure, inialize the SDK and respond to reader events.
+
+## Feedback 
+
+Let us know if you have any questions by creatings a Github issue or posting on [our Forums.](https://flomio.com/forums/forum/ask-the-flomies/)
