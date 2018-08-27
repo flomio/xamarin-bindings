@@ -1,0 +1,3 @@
+[submodule "flomio-sdk-ios"]
+	path = flomio-sdk-ios
+	url = https://github.com/flomio/flomio-sdk-ios
