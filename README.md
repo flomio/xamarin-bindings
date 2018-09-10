@@ -33,3 +33,7 @@ See ViewController.cs as a reference on how to configure, inialize the SDK and r
 ## Feedback 
 
 Let us know if you have any questions by creatings a Github issue or posting on [our Forums.](https://flomio.com/forums/forum/ask-the-flomies/)
+
+## Credit
+
+Made for Spark Eleven https://www.sparkeleven.com.au to help them integrate the Flomio SDK into their Xamarin projects
