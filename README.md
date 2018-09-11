@@ -1,3 +1,9 @@
+## Credit
+
+Made for Spark Eleven https://www.sparkeleven.com.au to help them integrate the Flomio SDK into their Xamarin projects
+
+Need something similar? [Get in touch](https://flomio.com/shop/apps/flomio-service-instantly-support-your-needs/)
+
 # Xamarin Bindings
 
 An example Visual Studio Solution which shows how to bind [Flomio's iOS SDK](https://github.com/flomio/flomio-sdk-ios) to Xamarin and use in an iOS app. 
@@ -33,7 +39,3 @@ See ViewController.cs as a reference on how to configure, inialize the SDK and r
 ## Feedback 
 
 Let us know if you have any questions by creatings a Github issue or posting on [our Forums.](https://flomio.com/forums/forum/ask-the-flomies/)
-
-## Credit
-
-Made for Spark Eleven https://www.sparkeleven.com.au to help them integrate the Flomio SDK into their Xamarin projects
